@@ -75,3 +75,7 @@ footer {
   color: var(--muted);
   font-size: 0.9rem;
 }
+
+.title-one {
+  color: gray;
+}
